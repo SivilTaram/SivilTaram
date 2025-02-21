@@ -5,4 +5,4 @@
 - 👯 I’m happy to collaborate on the future directions of semantic parsing, including robustness, interpretability and etc.
 - 📫 How to reach me: liuqian.sea@gmail.com
 
-[![SivilTaram's github stats](https://github-readme-stats.vercel.app/api?username=SivilTaram&show_icons=true)](https://github-readme-stats.vercel.app/api?username=SivilTaram&show_icons=true)
+[![SivilTaram's github stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=SivilTaram&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)
